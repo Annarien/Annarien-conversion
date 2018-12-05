@@ -3,5 +3,5 @@ Conversion Functions needed:
 -rands to cents
 -hours to minutes
 -kg to pounds
-
+-celcius to farhenheit
 
